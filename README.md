@@ -7,3 +7,5 @@ Recommended tools
 -------------------
 * [vvo/gifify](https://github.com/vvo/gifify)
 * [aegisub](http://www.aegisub.org/)
+
+`gifify repro.mov -o repro.gif --subtitles repro.ass`
